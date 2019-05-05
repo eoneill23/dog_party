@@ -10,8 +10,8 @@
 
 Here are the screenshots of my attempts:
 
-![](https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(1.png "Eric Comp 1")
-![](https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(2.png "Eric Comp 2")
+![](https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(1).png "Eric Comp 1")
+![](https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(2).png "Eric Comp 2")
 
 Here are the original comps: 
 
