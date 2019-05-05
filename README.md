@@ -10,11 +10,10 @@
 
 Here are the screenshots of my attempts:
 
-* <a href="https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(1).png" alt="Eric O'Neill Dog-Party Comp 1">Comp 1</a>
-
-* <a href="https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(2).png">Comp 2</a>
+* ! (https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(1).png" "Eric Comp 1")
+* ! (https://github.com/eoneill23/dog_party/blob/master/images/_Users_ericoneill_dog-party_index.html_how_to_dog%3DHow%20(2).png "Eric Comp 2")
 
 Here are the original comps: 
 
-* <a href="http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-01.jpg">Comp 1</a>
-* <a href="http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-02.jpg">Comp 2</a> 
+* ! (http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-01.jpg "Original Comp 1")
+* ! (http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-02.jpg "Original Comp 2")
