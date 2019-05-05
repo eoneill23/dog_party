@@ -106,6 +106,7 @@ input[type=submit] {
   font-family: Roboto Slab;
   border: none;
   display: block;
+  border-radius: 2px;
 }
 
 input[type=text] {
