@@ -1,0 +1,213 @@
+* {
+  box-sizing: border-
+}
+
+.dog_content {
+	border: solid 2px gray;
+	margin: 0 auto;
+  width: 1074px;
+}
+
+nav li {
+	display: inline;
+	padding-left: 10px;
+  padding-right: 10px;  
+}
+
+nav {
+	background-color: #75e2e6;
+	border-bottom: solid 3px #048eaa;
+	padding: 5px;
+  text-align: right;
+}
+
+nav img {
+	height: 55px;
+	width: 55px;
+	float: left;
+}
+
+nav a {
+	text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+#dog_name {
+	background-image: url("file:///Users/ericoneill/dog-party/images/park.jpg");
+	background-size: 97.8%;
+	background-position: 0 -200px;
+	height: 100%;
+	margin-top: 0px;
+	color: white;
+	padding-top: 5px;
+	background-repeat: no-repeat;
+  width: 100%;
+}
+
+#dog_name img {
+	width: 200px;
+	height: 200px;
+	border: solid 5px #048eaa;
+	border-radius: 50%;
+}
+
+#dog_name form {
+  margin-left: 34%;
+  width: 250px;
+  padding-bottom: 20px;
+}
+
+#dog_name input[type=submit] {
+	background-color: #75e2e6;
+  margin-top: -5px;
+  color: black;
+}
+
+#dog_name label {
+  display: block;
+  text-align: left;
+}
+
+.learn_more {
+	text-align: center;
+	background-color: #048eaa;
+	padding: 5px;
+	color: white;
+  margin-top: 30px;
+}
+
+.learn_more img {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+footer p {
+	margin-top: 30px;
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+.content {
+	width: 30.5%;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 15px;
+  display: inline-block;
+  margin: auto;
+  height: 502px;
+  margin-bottom: 15px;
+}
+
+.content img {
+	height: 175px;
+	width: 175px;
+	border: solid 5px #048eaa;
+	border-radius: 50%;
+  display: block;
+  margin: auto;
+}
+
+.content h1, h3 {
+  text-align: center;
+}
+
+.content input {
+  display: block;
+  margin: auto;
+}
+
+input[type=submit] {
+	background-color: #048eaa;
+	width: 250px;
+	height: 40px;
+	margin-top: 15px;
+	color: white;
+  font-weight: 600;
+	font-size: 17px;
+	border: none;
+  display: block;
+}
+
+input[type=text] {
+	width: 350px;
+	height: 45px;
+}
+
+p, h1, li, h3, input[type=submit] {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-weight: 300;
+  height: 30px;
+  font-size: 30px;
+}
+
+#some_dogs {
+  font-weight: 700;
+}
+
+.dog_columns {
+  height: 50%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.content p {
+  height: 200px;
+}
+
+#dog_name input[type=submit] {
+  width: 355px;
+  height: 45px;
+}
+
+#dog_columns p {
+  font-weight: 600;
+}
+
+.social_images {
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 900px) {
+  body {
+  background: magenta;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .content {
+    display: block;
+    margin-left: 0px;
+    width: 100%;  
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .content p {
+  height: 100px; 
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #how_to_dog, #what_is_dogs, #what_is_dogs {
+  height: 400px; 
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .dog_content {
+  width: 700px; 
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .dog_columns {
+  height: 1250px; 
+  }
+}
